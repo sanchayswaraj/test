@@ -276,7 +276,7 @@
   {
     "name": "Teller3",
     "ring": "Assess",
-    "quadrant": "Test2",
+    "quadrant": "Test1",
     "isNew": "Adopt",
     "description": "<p><strong><a href=\"https://github.com/tellerops/teller\">Teller</a></strong> is an open-source universal secret manager for developers that ensures the correct environment variables are set when starting an application. However, it's not a vault itself — it's a CLI tool that connects to a variety of sources, ranging from cloud secrets providers to third-party solutions like <a href=\"/radar/tools/hashicorp-vault\">HashiCorp Vault</a> to local environment files. Teller has additional functionality to scan for vault-kept secrets in your code, to redact secrets from logs, to detect drift between secrets providers and to sync between them. Given the sensitivity of accessing secrets, we can't emphasize enough the need to secure the supply chain for open-source dependencies, but we appreciate how easy the CLI is to use in local development environments, CI/CD pipelines and deployment automation.</p>"
   }
@@ -284,7 +284,7 @@
   {
     "name": "Teller4",
     "ring": "Assess",
-    "quadrant": "Test3",
+    "quadrant": "Test1",
     "isNew": "Hold",
     "description": "<p><strong><a href=\"https://github.com/tellerops/teller\">Teller</a></strong> is an open-source universal secret manager for developers that ensures the correct environment variables are set when starting an application. However, it's not a vault itself — it's a CLI tool that connects to a variety of sources, ranging from cloud secrets providers to third-party solutions like <a href=\"/radar/tools/hashicorp-vault\">HashiCorp Vault</a> to local environment files. Teller has additional functionality to scan for vault-kept secrets in your code, to redact secrets from logs, to detect drift between secrets providers and to sync between them. Given the sensitivity of accessing secrets, we can't emphasize enough the need to secure the supply chain for open-source dependencies, but we appreciate how easy the CLI is to use in local development environments, CI/CD pipelines and deployment automation.</p>"
   }
